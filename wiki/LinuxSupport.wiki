@@ -7,7 +7,7 @@ Linux 可执行链接格式文件是按芯片指令集分类的，应该根据�
 
 安装部署完毕后使用以下参数配置工作选项并启动：
 {{{
-Usage 用法 agentx1 [-h] Display help to use		显示使用帮助信息
+Usage 用法 agentx1 [-h] Display help to use	显示使用帮助信息
 	[-L <interface-name>] LAN (default br-lan)	设置局域网络接口名称
 	[-W <interface-name>] WAN (default br-wan)	设置广域网络接口名称
 	[-p NONUSE(default)|LOCAL|BOTH] Promiscuous mode	设置使用混杂模式的范围
