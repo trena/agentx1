@@ -16,7 +16,7 @@ Usage 用法 agentx1 [-h] Help to use 显示使用帮助信息
 	[-n <address>] Binding static (default local) netmask 设置静态绑定的子网掩码
 	[-g <address>] Binding (default 0.0.0.0) gateway 设置绑定的广域网关
 	[-d <address>] Binding (default 0.0.0.0) DNS 设置绑定的域名解析
-For example 例如 agentx1 -L br-lan -W br-wan -p NONUSE -a NONE -i 10.10.10.10 -n 255.255.255.0 -g 10.10.10.1 -d 1.1.1.1
+Example 例如 agentx1 -L br-lan -W br-wan -p NONUSE -a NONE -i 10.10.10.10 -n 255.255.255.0 -g 10.10.10.1 -d 1.1.1.1
 }}}
 个别选项或参数的具体用法和注意事项将在后面逐一说明。
 
