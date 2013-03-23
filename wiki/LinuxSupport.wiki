@@ -1,5 +1,5 @@
 #summary Explains how to use the Agent X One Linux Executable and Linking Format file. 详细介绍如何使用“一号特工”的 Linux 可执行链接格式文件。
-#labels Featured,Phase-Support
+#labels Phase-Support
 
 = Introduction 简介 =
 
