@@ -1,4 +1,4 @@
-#summary Describes the whole process of authentication by using Agent X One. 阐述使用“一号特工”进行代理认证的全过程。
+#summary Describes the whole process of authentication by using Agent X One. 阐述使用“壹号特工”进行代理认证的全过程。
 #labels Featured,Phase-Support
 = 搭建 =
 == 架设 ==
