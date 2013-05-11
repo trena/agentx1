@@ -27,4 +27,4 @@
   # 使用官方客户端进行认证直至成功。
   # 继续等待至收到下图所示通知信息。
   # 关闭客户端享受持续在线的自由吧！
-[https://agentx1.googlecode.com/files/UserSupport-0.jpg]
+[https://agentx1.googlecode.com/svn/wiki/UserSupport-0.jpg]
